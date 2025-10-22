@@ -6,3 +6,7 @@ marks: {
 science: 92,
 english: 78
 };
+getTotalMarks: function(){
+  let total = 0;
+  
+}
